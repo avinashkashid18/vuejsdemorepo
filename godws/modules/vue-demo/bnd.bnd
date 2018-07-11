@@ -1,0 +1,6 @@
+Bundle-Name: vue-demo
+Bundle-SymbolicName: vue.demo
+Bundle-Version: 1.0.0
+Export-Package: vue.demo.constants
+Web-ContextPath: /vue-demo
+-sources: true
